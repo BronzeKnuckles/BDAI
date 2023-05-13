@@ -1,4 +1,4 @@
-# BDAI
+# BDAI [Big Data and Artificial Intelligence Club]
 
 
 ### Repository -> all learning materials & resources of events and bootcamps @ BDAI
