@@ -37,8 +37,8 @@
    - Definition and Importance of Functions in Python
    - How to define and call a function, with examples
 
-6. **Introduction to libraries (15-20 minutes)** Pandas and Numpy 
-   - Practical Python Exercise 
+6. **Introduction to libraries (15-20 minutes)** 
+   - Introduction to Pandas and Numpy 
    - Walkthrough of a basic project or problem where attendees can apply what they've learned
    - Q&A and troubleshooting during the exercise
 
